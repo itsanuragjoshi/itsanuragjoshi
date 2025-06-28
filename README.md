@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**itsanuragjoshi/itsanuragjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm **Anurag Joshi** – a full-stack web developer who loves building clean, scalable, and user-centric applications. I specialize in crafting seamless frontend experiences with **React** and **Next.js**, and building powerful backends with **Node.js**, **Express**, and **Laravel**.
 
-Here are some ideas to get you started:
+When I'm not coding, I'm writing on [my blog](https://itsanuragjoshi.com) about the craft of web development — from elegant code patterns to practical UI/UX decisions. I believe in writing thoughtful software that balances function and form.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+| Category            | Technologies                                                                 |
+|---------------------|------------------------------------------------------------------------------|
+| **Frameworks / Libraries** | React, Next.js, Livewire, Tailwind CSS, CSS3, Node.js, Express.js, Laravel, FastAPI |
+| **Languages**       | JavaScript, PHP, Python                                                      |
+| **Databases**       | MongoDB, MySQL, Firebase                                                     |
+| **Workflow & Hosting** | Git/GitHub, Vercel, Figma                                                    |
+| **Project Management** | Basecamp, ClickUp                                                           |
+| **APIs**            | RestAPIs, OpenAI APIs                                                                  |
